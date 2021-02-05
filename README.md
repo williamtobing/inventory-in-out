@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Before running this repository, load the data by running the following script.
+
+### `yarn run server`
+
+After the json-server is running, you can run:
 
 ### `yarn start`
 
