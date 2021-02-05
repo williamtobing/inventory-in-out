@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "text": "10 Seats",
+      "day": "2021-02-04",
+      "inOut": true,
+      "id": 1
+    },
+    {
+      "text": "100 Unit Monitors",
+      "day": "2021-02-18",
+      "inOut": true,
+      "id": 2
+    }
+  ]
+}
